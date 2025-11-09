@@ -1,2 +1,3 @@
 # Send-data-raspberry-pi-to-Signal-used-API-KEY
 In this code, shows how to send text messages (notification) or Images to your Signal app using Raspberry pi. Now your Raspberry pi projects will be able to send any alerts on the Signal app. 
+To send notifications on Signal, you need to: download the app from the Google Play Store, create an account, and add this number: +34 603 21 25 97 (Callmebot). Simply send: "I allow Callmebot to send me messages." After a while, you will receive your key and API key, like the one at: https://signal.callmebot.com/signal/send.php?phone="your_api"&apikey="your_KEY"&text="text". Copy the key and API key into your code.
